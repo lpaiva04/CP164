@@ -1,0 +1,293 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Lucas Paiva-Bernard
+ID:      210985040
+Email:   paiv5040@mylaurier.ca
+Version: 2021-11-07
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Hash     Slot Key
+-------- ---- ---------------------
+695        0     
+        Name:       Lasagna
+        Origin:     Italian
+        Vegetarian: None
+        Calories:   None
+1355        0     
+        Name:       Butter Chicken
+        Origin:     Indian
+        Vegetarian: None
+        Calories:   None
+1284        0     
+        Name:       Moo Goo Guy Pan
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+1521        0     
+        Name:       Vegetable Alicha
+        Origin:     Ethiopian
+        Vegetarian: None
+        Calories:   None
+1147        0     
+        Name:       Spanakopita
+        Origin:     Greek
+        Vegetarian: None
+        Calories:   None
+1132        0     
+        Name:       Chirashi Don
+        Origin:     Japanese
+        Vegetarian: None
+        Calories:   None
+1244        0     
+        Name:       Canuck Burger
+        Origin:     Canadian
+        Vegetarian: None
+        Calories:   None
+949        0     
+        Name:       Turducken
+        Origin:     American
+        Vegetarian: None
+        Calories:   None
+1277        0     
+        Name:       Shark Fin Soup
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+704        0     
+        Name:       Chamuco
+        Origin:     Mexican
+        Vegetarian: None
+        Calories:   None
+518        0     
+        Name:       Natto
+        Origin:     Japanese
+        Vegetarian: None
+        Calories:   None
+1630        0     
+        Name:       Canada Goose Chili
+        Origin:     Canadian
+        Vegetarian: None
+        Calories:   None
+3011        0     
+        Name:       Diet Free-Range Gluten-free Water
+        Origin:     American
+        Vegetarian: None
+        Calories:   None
+1450        0     
+        Name:       Kung Pao Chicken
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+1751        0     
+        Name:       General Tao Chicken
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+2130        0     
+        Name:       Spicy Vegetable Moo Shu
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+657        0     
+        Name:       BBQ Pork
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+1329        0     
+        Name:       Orange Chicken
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+2595        0     
+        Name:       Vegetables with Cashew Nuts
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+1232        0     
+        Name:       Lemon Chicken
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+2027        0     
+        Name:       Beef with Green Pepper
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+1760        0     
+        Name:       Sweet and Sour Pork
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+1492        0     
+        Name:       Szechuan Shrimp
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+740        0     
+        Name:       Poutine
+        Origin:     Canadian
+        Vegetarian: None
+        Calories:   None
+1046        0     
+        Name:       Teppanyaki
+        Origin:     Japanese
+        Vegetarian: None
+        Calories:   None
+1011        0     
+        Name:       Greek Salad
+        Origin:     Greek
+        Vegetarian: None
+        Calories:   None
+1034        0     
+        Name:       Fettuccine
+        Origin:     Italian
+        Vegetarian: None
+        Calories:   None
+834        0     
+        Name:       Teriyaki
+        Origin:     Japanese
+        Vegetarian: None
+        Calories:   None
+1070        0     
+        Name:       Shortbread 
+        Origin:     Scottish
+        Vegetarian: None
+        Calories:   None
+729        0     
+        Name:       Pavlova
+        Origin:     New Zealand
+        Vegetarian: None
+        Calories:   None
+1889        0     
+        Name:       Hokey Pokey Ice Cream
+        Origin:     New Zealand
+        Vegetarian: None
+        Calories:   None
+615        0     
+        Name:       Fricot
+        Origin:     Canadian
+        Vegetarian: None
+        Calories:   None
+956        0     
+        Name:       Chip Butty
+        Origin:     English
+        Vegetarian: None
+        Calories:   None
+1357        0     
+        Name:       Grilled Salmon
+        Origin:     Canadian
+        Vegetarian: None
+        Calories:   None
+726        0     
+        Name:       Ravioli
+        Origin:     Italian
+        Vegetarian: None
+        Calories:   None
+495        0     
+        Name:       Crepe
+        Origin:     Italian
+        Vegetarian: None
+        Calories:   None
+909        0     
+        Name:       Fried Rice
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+1504        0     
+        Name:       Pepperoni Pizza
+        Origin:     Italian
+        Vegetarian: None
+        Calories:   None
+1204        0     
+        Name:       Chicken Kabob
+        Origin:     Indian
+        Vegetarian: None
+        Calories:   None
+1072        0     
+        Name:       Panzerotti
+        Origin:     Italian
+        Vegetarian: None
+        Calories:   None
+1183        0     
+        Name:       Spring Rolls
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+1551        0     
+        Name:       Chicken Chow Mein
+        Origin:     Chinese
+        Vegetarian: None
+        Calories:   None
+1245        0     
+        Name:       Chicken Wings
+        Origin:     American
+        Vegetarian: None
+        Calories:   None
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Insert 1, 2, 3: 
+1
+2
+3
+-------------------
+Remove 1:
+1
+-------------------
+Remaining List:
+2
+3
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+5 slots
+==============================
+Slot 0
+10
+5
+Slot 1
+6
+1
+Slot 2
+7
+2
+Slot 3
+8
+3
+Slot 4
+9
+4
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+5 slots
+==============================
+Slot 0
+Slot 1
+Slot 2
+Slot 3
+Slot 4
+-----------------------------
+Rehashed Version:
+11 slots
+==============================
+Slot 0
+Slot 1
+Slot 2
+Slot 3
+Slot 4
+Slot 5
+Slot 6
+Slot 7
+Slot 8
+Slot 9
+Slot 10
+
+-------------------------------------------------------

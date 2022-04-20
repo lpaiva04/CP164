@@ -1,0 +1,98 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Lucas Paiva-Bernard
+ID:      210985040
+Email:   paiv5040@mylaurier.ca
+Version: 2022-01-29
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+0
+Insert 7 to rear:
+0
+7
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+10
+Insert 7:
+10
+7
+Peek:
+10
+Remove from first:
+7
+New Peek:
+7
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Array to queue: 
+1
+2
+3
+4
+5
+Queue to array:
+[0, 0, 0, 0, 0]
+Queue Tests:
+Is it empty?: True
+insert 7: None
+insert 7: None
+remove from front: 7
+Peek: 7
+Length: 1
+None
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Moo Goo Guy Pan|1|False|272
+
+Insert new food data to rear:
+Moo Goo Guy Pan|1|False|272
+
+Vegetable Alicha|3|True|138
+
+Peek:
+Moo Goo Guy Pan|1|False|272
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Queue: 
+Moo Goo Guy Pan|1|False|272
+
+Vegetable Alicha|3|True|138
+
+Remove Priority Value:
+Vegetable Alicha|3|True|138
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Array to pq: 
+Moo Goo Guy Pan|1|False|272
+
+Vegetable Alicha|3|True|138
+
+Spanakopita|5|True|260
+
+Chirashi Don|6|False|600
+
+Canuck Burger|0|False|7500
+
+pq to array:
+['Canada Goose Chili|0|False|199\n', 'Chamuco|4|True|150\n', 'Natto|6|True|212\n', 'Shark Fin Soup|1|False|46\n', 'Turducken|8|False|12240\n']
+Priority Queue Tests:
+True
+None
+None
+7
+7
+None
+-------------------------------------------------------

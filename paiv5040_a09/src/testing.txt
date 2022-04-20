@@ -1,0 +1,49 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Lucas Paiva-Bernard
+ID:      210985040
+Email:   paiv5040@mylaurier.ca
+Version: 2022-03-24
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Using array-based list Hash_set
+
+Total Comparisons: 15441360
+Word with maximum comparisons: the: 13,711
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Using array-based Sorted list Hash_set
+
+Total Comparisons: 28429462
+Word with maximum comparisons: the: 15,388
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Using linked BST Hash_set
+
+Total Comparisons: 1206713
+Word with maximum comparisons: the: 25,714
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+node_counts:
+Zero: 2
+One: 2
+Two: 1
+-------------------
+__contains__:
+True
+False
+-------------------
+parent (iterative)
+Parent of node with value == 4: 3
+-------------------
+parent (recursive)
+Parent of node with value == 4: 3
+-------------------------------------------------------
